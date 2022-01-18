@@ -1,0 +1,9 @@
+div img {
+    width: 400px;
+    transition-property: width;
+    transition-duration: .5s;
+}
+
+div img:hover {
+    transform: translate(180px);
+}
